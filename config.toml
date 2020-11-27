@@ -78,9 +78,8 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      phone   = "06.51.19.57.91"
+      email   = "ochartrai@normandiewebschool.fr"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
