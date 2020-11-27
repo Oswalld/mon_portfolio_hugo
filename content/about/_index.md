@@ -2,7 +2,7 @@
 title: "À propos"
 date: 2018-07-12T18:19:33+06:00
 heading : "Ensemble, construisons des projets web qui vous ressemblent & correspondent à vos besoins"
-description : "Bonjour, je suis Raphael Sanchez, artisan web basé à Rouen, entre Caen et Paris"
+description : "Bonjour, je suis Oswald Chartrain, étudiant à la NWS."
 expertise_title: "Expertise"
 expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
 ---
