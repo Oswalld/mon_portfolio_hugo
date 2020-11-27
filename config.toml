@@ -82,12 +82,12 @@ summarylength = 25
       email   = "ochartrai@normandiewebschool.fr"
       # Footer Sitemap
       [params.footer.sitemap]
-        title   = "Sitemap"
+        title   = "Plan de site"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "À propos de moi"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "Mes projets"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
           name = "Blog"
@@ -97,20 +97,17 @@ summarylength = 25
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
-        title   = "Social Media"
-        [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
+        title   = "réseaux sociaux"
         [[params.footer.social.link]]
           name = "Behance"
-          url  = "#"
+          url  = "https://www.behance.net/oswaldchartrain"
         [[params.footer.social.link]]
           name = "Dribbble"
-          url  = "#"
+          url  = "https://dribbble.com/yugishan"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "#"
+          url  = "https://www.instagram.com/oswaaalld/"
       # Footer Service
       [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+        title       = "J'aide les marques à:"
+        description = "Développer des design<br>créé leur site internet<br>créé leur identité visuelle"
