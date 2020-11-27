@@ -20,13 +20,9 @@ summarylength = 25
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
-    name    = ""
-    url     = ""
-    weight  = 4
-  [[menu.nav]]
     name    = "Contact"
     url     = "contact"
-    weight  = 5
+    weight  = 4
 
 # Site Params
 [params]
