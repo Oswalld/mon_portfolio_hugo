@@ -26,7 +26,7 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/LOGO_SEUL.png"
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "Roxo Hugo themes | Design Agency Template by StaticMania"
@@ -49,8 +49,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
+    heading               = "Créateur depuis toujours, profesionnel depuis peu"
+    tagline               = "JE TRANSFORMERAIS VOS PENSÉES RÉALITÉ !"
     primary_button        = "Voir mes travaux"
     primary_button_url    = "portfolio"
     secondary_button      = "Contactez moi !"
