@@ -3,16 +3,15 @@ title: "À propos"
 date: 2018-07-12T18:19:33+06:00
 heading : "Ensemble, construisons des projets web qui vous ressemblent & correspondent à vos besoins"
 description : "Bonjour, je suis Oswald Chartrain, étudiant à la NWS."
-expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
 ---
 
 ## Qui suis-je ?
 
-Je conçois des interfaces web depuis 12 ans dans divers secteurs, en tant qu'UI designer et développeur front-end. J'ai développé des méthodologies de définition et d'accompagnement de projets.
+On est au beau milieu de la nuit, j’enchaîne jeux, animés et Photoshop... Fichtre ! Il est déjà 3 heures. Je suis Oswald, j’ai 19 ans, j’aime un peu l’informatique, et c’est une litote… Heureusement, je dors peu. 
 
-J'interviens souvent pour faciliter le travail de réflexion avant projet et je prends plaisir à échanger avec les clients lors des différentes phases de conception.
+Passionné par la technologie et la nouveauté, j’aime en apprendre plus sur ce qui m’entoure.J’ai toujours vécu avec des animaux, chats et chiens que j’observe. J’apprend d’eux tout en les dessinant.Ils sont la parfaite incarnation de la maxime : Ne fais pas aux autres ce que tu ne veux pas que l’on te fasse.
 
-Je suis également formateur HTML / CSS / JS, responsive web design, design d'interfaces et sur le CMS Wordpress.
+Quand je rêve du monde dans lequel je veux vivre, je veux que personne ne manque de rien (et cela inclut mes chats). C’est pour cela que j’étudie à la Normandie Web School, le web design et le développement. J’ai une grande famille !
 
-Contactez-moi
+Heureusement pour réaliser mes rêves, je dispose de quelques qualités : je suis dynamique, minutieux et ouvert d’esprit, et si d’autres qualités vous sont nécessaires je mettrais un point d’honneur à les acquérir au plus vite.
+
